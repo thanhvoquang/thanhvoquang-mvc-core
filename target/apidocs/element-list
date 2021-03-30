@@ -1,0 +1,6 @@
+com.thanhvoquang.mvccore
+com.thanhvoquang.mvccore.model.dto
+com.thanhvoquang.mvccore.model.entity
+com.thanhvoquang.mvccore.model.mapper
+com.thanhvoquang.mvccore.service
+com.thanhvoquang.mvccore.util

@@ -1,0 +1,8 @@
+com/thanhvoquang/mvccore/model/dto/BaseDTO.class
+com/thanhvoquang/mvccore/MvcCoreApplication.class
+com/thanhvoquang/mvccore/service/BaseServiceImpl.class
+com/thanhvoquang/mvccore/util/DateTimeUtil.class
+com/thanhvoquang/mvccore/model/mapper/BaseMapper.class
+com/thanhvoquang/mvccore/service/BaseService.class
+com/thanhvoquang/model/entity/BaseAuditableEntity.class
+com/thanhvoquang/mvccore/model/entity/BaseEntity.class

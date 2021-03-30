@@ -1,0 +1,8 @@
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java/com/thanhvoquang/mvccore/model/entity/BaseEntity.java
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java/com/thanhvoquang/mvccore/model/entity/BaseAuditableEntity.java
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java/com/thanhvoquang/mvccore/util/DateTimeUtil.java
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java/com/thanhvoquang/mvccore/MvcCoreApplication.java
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java/com/thanhvoquang/mvccore/model/dto/BaseDTO.java
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java/com/thanhvoquang/mvccore/model/mapper/BaseMapper.java
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java/com/thanhvoquang/mvccore/service/BaseServiceImpl.java
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java/com/thanhvoquang/mvccore/service/BaseService.java

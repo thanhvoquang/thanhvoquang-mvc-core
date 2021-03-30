@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.thanhvoquang.mvccore"},{"l":"com.thanhvoquang.mvccore.model.dto"},{"l":"com.thanhvoquang.mvccore.model.entity"},{"l":"com.thanhvoquang.mvccore.model.mapper"},{"l":"com.thanhvoquang.mvccore.service"},{"l":"com.thanhvoquang.mvccore.util"}]

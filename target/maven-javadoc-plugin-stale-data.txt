@@ -1,0 +1,105 @@
+/usr/local/opt/openjdk/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-starter-data-jpa/2.4.4/spring-boot-starter-data-jpa-2.4.4.jar:/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-starter-aop/2.4.4/spring-boot-starter-aop-2.4.4.jar:/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-starter/2.4.4/spring-boot-starter-2.4.4.jar:/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot/2.4.4/spring-boot-2.4.4.jar:/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.4.4/spring-boot-autoconfigure-2.4.4.jar:/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.4.4/spring-boot-starter-logging-2.4.4.jar:/Users/k3rcaft/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar:/Users/k3rcaft/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar:/Users/k3rcaft/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.13.3/log4j-to-slf4j-2.13.3.jar:/Users/k3rcaft/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar:/Users/k3rcaft/.m2/repository/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30.jar:/Users/k3rcaft/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar:/Users/k3rcaft/.m2/repository/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar:/Users/k3rcaft/.m2/repository/org/springframework/spring-aop/5.3.5/spring-aop-5.3.5.jar:/Users/k3rcaft/.m2/repository/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar:/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-starter-jdbc/2.4.4/spring-boot-starter-jdbc-2.4.4.jar:/Users/k3rcaft/.m2/repository/com/zaxxer/HikariCP/3.4.5/HikariCP-3.4.5.jar:/Users/k3rcaft/.m2/repository/org/springframework/spring-jdbc/5.3.5/spring-jdbc-5.3.5.jar:/Users/k3rcaft/.m2/repository/jakarta/transaction/jakarta.transaction-api/1.3.3/jakarta.transaction-api-1.3.3.jar:/Users/k3rcaft/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar:/Users/k3rcaft/.m2/repository/org/hibernate/hibernate-core/5.4.29.Final/hibernate-core-5.4.29.Final.jar:/Users/k3rcaft/.m2/repository/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar:/Users/k3rcaft/.m2/repository/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar:/Users/k3rcaft/.m2/repository/net/bytebuddy/byte-buddy/1.10.21/byte-buddy-1.10.21.jar:/Users/k3rcaft/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar:/Users/k3rcaft/.m2/repository/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.jar:/Users/k3rcaft/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar:/Users/k3rcaft/.m2/repository/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar:/Users/k3rcaft/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar:/Users/k3rcaft/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar:/Users/k3rcaft/.m2/repository/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar:/Users/k3rcaft/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar:/Users/k3rcaft/.m2/repository/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar:/Users/k3rcaft/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar:/Users/k3rcaft/.m2/repository/org/springframework/data/spring-data-jpa/2.4.6/spring-data-jpa-2.4.6.jar:/Users/k3rcaft/.m2/repository/org/springframework/data/spring-data-commons/2.4.6/spring-data-commons-2.4.6.jar:/Users/k3rcaft/.m2/repository/org/springframework/spring-orm/5.3.5/spring-orm-5.3.5.jar:/Users/k3rcaft/.m2/repository/org/springframework/spring-context/5.3.5/spring-context-5.3.5.jar:/Users/k3rcaft/.m2/repository/org/springframework/spring-expression/5.3.5/spring-expression-5.3.5.jar:/Users/k3rcaft/.m2/repository/org/springframework/spring-tx/5.3.5/spring-tx-5.3.5.jar:/Users/k3rcaft/.m2/repository/org/springframework/spring-beans/5.3.5/spring-beans-5.3.5.jar:/Users/k3rcaft/.m2/repository/org/springframework/spring-core/5.3.5/spring-core-5.3.5.jar:/Users/k3rcaft/.m2/repository/org/springframework/spring-jcl/5.3.5/spring-jcl-5.3.5.jar:/Users/k3rcaft/.m2/repository/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar:/Users/k3rcaft/.m2/repository/org/springframework/spring-aspects/5.3.5/spring-aspects-5.3.5.jar:/Users/k3rcaft/.m2/repository/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mvc-core 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'mvc-core 0.0.1-SNAPSHOT API'
+com.thanhvoquang.mvccore.util
+com.thanhvoquang.mvccore
+com.thanhvoquang.mvccore.model.dto
+com.thanhvoquang.mvccore.model.entity
+com.thanhvoquang.mvccore.model.entity
+com.thanhvoquang.mvccore.model.mapper
+com.thanhvoquang.mvccore.service
+com.thanhvoquang.mvccore.service
+/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-starter-data-jpa/2.4.4/spring-boot-starter-data-jpa-2.4.4.jar = 1616585378642
+/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-starter-aop/2.4.4/spring-boot-starter-aop-2.4.4.jar = 1616585378855
+/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-starter/2.4.4/spring-boot-starter-2.4.4.jar = 1616585380549
+/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot/2.4.4/spring-boot-2.4.4.jar = 1616585379049
+/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.4.4/spring-boot-autoconfigure-2.4.4.jar = 1616585379628
+/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.4.4/spring-boot-starter-logging-2.4.4.jar = 1616585379471
+/Users/k3rcaft/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar = 1595658472282
+/Users/k3rcaft/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar = 1595658472478
+/Users/k3rcaft/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.13.3/log4j-to-slf4j-2.13.3.jar = 1595658472724
+/Users/k3rcaft/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar = 1595658472954
+/Users/k3rcaft/.m2/repository/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30.jar = 1595658472926
+/Users/k3rcaft/.m2/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar = 1595658473186
+/Users/k3rcaft/.m2/repository/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar = 1615811301139
+/Users/k3rcaft/.m2/repository/org/springframework/spring-aop/5.3.5/spring-aop-5.3.5.jar = 1616585386940
+/Users/k3rcaft/.m2/repository/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar = 1597400679015
+/Users/k3rcaft/.m2/repository/org/springframework/boot/spring-boot-starter-jdbc/2.4.4/spring-boot-starter-jdbc-2.4.4.jar = 1616585380283
+/Users/k3rcaft/.m2/repository/com/zaxxer/HikariCP/3.4.5/HikariCP-3.4.5.jar = 1595658452563
+/Users/k3rcaft/.m2/repository/org/springframework/spring-jdbc/5.3.5/spring-jdbc-5.3.5.jar = 1616585385559
+/Users/k3rcaft/.m2/repository/jakarta/transaction/jakarta.transaction-api/1.3.3/jakarta.transaction-api-1.3.3.jar = 1595658453579
+/Users/k3rcaft/.m2/repository/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar = 1595658454100
+/Users/k3rcaft/.m2/repository/org/hibernate/hibernate-core/5.4.29.Final/hibernate-core-5.4.29.Final.jar = 1616585394563
+/Users/k3rcaft/.m2/repository/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar = 1595658455592
+/Users/k3rcaft/.m2/repository/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar = 1616585382671
+/Users/k3rcaft/.m2/repository/net/bytebuddy/byte-buddy/1.10.21/byte-buddy-1.10.21.jar = 1616585383259
+/Users/k3rcaft/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar = 1595658454913
+/Users/k3rcaft/.m2/repository/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.jar = 1616585382635
+/Users/k3rcaft/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar = 1595658469274
+/Users/k3rcaft/.m2/repository/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar = 1595658455578
+/Users/k3rcaft/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar = 1616585382599
+/Users/k3rcaft/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar = 1616585383604
+/Users/k3rcaft/.m2/repository/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar = 1616585383190
+/Users/k3rcaft/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar = 1616585383243
+/Users/k3rcaft/.m2/repository/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar = 1616585383637
+/Users/k3rcaft/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar = 1616585383823
+/Users/k3rcaft/.m2/repository/org/springframework/data/spring-data-jpa/2.4.6/spring-data-jpa-2.4.6.jar = 1616585384241
+/Users/k3rcaft/.m2/repository/org/springframework/data/spring-data-commons/2.4.6/spring-data-commons-2.4.6.jar = 1616585384221
+/Users/k3rcaft/.m2/repository/org/springframework/spring-orm/5.3.5/spring-orm-5.3.5.jar = 1616585384827
+/Users/k3rcaft/.m2/repository/org/springframework/spring-context/5.3.5/spring-context-5.3.5.jar = 1616585385820
+/Users/k3rcaft/.m2/repository/org/springframework/spring-expression/5.3.5/spring-expression-5.3.5.jar = 1616585386850
+/Users/k3rcaft/.m2/repository/org/springframework/spring-tx/5.3.5/spring-tx-5.3.5.jar = 1616585387283
+/Users/k3rcaft/.m2/repository/org/springframework/spring-beans/5.3.5/spring-beans-5.3.5.jar = 1616585387578
+/Users/k3rcaft/.m2/repository/org/springframework/spring-core/5.3.5/spring-core-5.3.5.jar = 1616585388416
+/Users/k3rcaft/.m2/repository/org/springframework/spring-jcl/5.3.5/spring-jcl-5.3.5.jar = 1616585388133
+/Users/k3rcaft/.m2/repository/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar = 1616585388224
+/Users/k3rcaft/.m2/repository/org/springframework/spring-aspects/5.3.5/spring-aspects-5.3.5.jar = 1616585388667
+/Users/k3rcaft/.m2/repository/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar = 1595735153181
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java/.DS_Store = 1617129190582
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java = 1617129190582
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/constant-values.html = 1617131094715
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/member-search-index.zip = 1617131094770
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/overview-tree.html = 1617131094750
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/index.html = 1617131094755
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/package-search-index.js = 1617131094764
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/package-search-index.zip = 1617131094768
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/type-search-index.zip = 1617131094769
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/serialized-form.html = 1617131094724
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/index-all.html = 1617131094772
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/allpackages-index.html = 1617131094781
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/deprecated-list.html = 1617131094753
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/member-search-index.js = 1617131094770
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/script.js = 1617131094787
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/stylesheet.css = 1617131094786
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/overview-summary.html = 1617131094783
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/help-doc.html = 1617131094785
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/javadoc.sh = 1617131093603
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/system-properties.html = 1617131094782
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/element-list = 1617131094690
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/allclasses-index.html = 1617131094779
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/type-search-index.js = 1617131094769
+/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs/search.js = 1617131094788
