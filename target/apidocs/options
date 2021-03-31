@@ -4,20 +4,20 @@
 'UTF-8'
 -protected
 -sourcepath
-'/Users/k3rcaft/Downloads/JavaProjects/mvc-core/src/main/java'
+'/Users/k3rcaft/Downloads/JavaProjects/thanhvoquang-mvc-core/src/main/java'
 -author
 -bottom
 'Copyright &#169; 2021. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/apidocs'
+'/Users/k3rcaft/Downloads/JavaProjects/thanhvoquang-mvc-core/target/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
 'mvc-core 0.0.1-SNAPSHOT API'
 -linkoffline
-'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/k3rcaft/Downloads/JavaProjects/mvc-core/target/javadoc-bundle-options'
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/k3rcaft/Downloads/JavaProjects/thanhvoquang-mvc-core/target/javadoc-bundle-options'
 -use
 -version
 -windowtitle
